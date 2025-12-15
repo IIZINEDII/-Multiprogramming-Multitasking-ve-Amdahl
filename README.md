@@ -1,0 +1,1 @@
+# -Multiprogramming-Multitasking-ve-Amdahl
